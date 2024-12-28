@@ -61,6 +61,18 @@ h1, h2, h3, h4, h5, h6 {
   color: rgba(0, 0, 0, 0.8);
   font-family: "Playfair Display", Georgia, serif;
   margin: 0 0 30px 0; }
+
+h2 {
+  color: rgba(0, 0, 0, 0.8);
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 28px;
+  margin: 0 0 30px 0; }
+
+h3 {
+  color: rgba(0, 0, 0, 0.8);
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 18px;
+  margin: 0 0 30px 0; }
   
 .scaled {
   transform: scale(0.7); /* Equal to scaleX(0.7) scaleY(0.7) */
